@@ -1,0 +1,3 @@
+## the sketch drawing is really hard because I have to think of the coordinates for every vertex. Some of my shape could not be described by quad or rectanges or circles, so I have to use StartShape function to do that.
+The Myshape function made more sense before I start. Now I can use it to form complex shape, and multiply it and put it in different positions.
+I'm proud that I'm now more familiar with basic functions, and are able to draw coordinates using less time
